@@ -4,4 +4,4 @@ Conway's Game Of Life
 >
 > - John Conway
 
-This is a PICO-8 implementation of Conway's game of life built at the Recurse Center with @unna97 and @v3rse
+This is a PICO-8 implementation of Conway's game of life built at the Recurse Center with [v3rse](https://github.com/v3rse) and [unna97](https://github.com/unna97)
